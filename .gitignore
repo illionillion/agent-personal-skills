@@ -1,0 +1,10 @@
+.DS_Store
+*.swp
+*~
+.idea/
+.vscode/
+.cursor/
+.agents/
+skills-lock.json
+**/.skill-lock.json
+node_modules/
