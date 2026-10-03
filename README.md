@@ -57,6 +57,7 @@ npx skills update -g -y
 | name | 用途 |
 |------|------|
 | `check-skills-updates` | `npx skills` 管理のグローバル skill の更新確認・適用 |
+| `site-requirements` | サイトの要件だけを `REQUIREMENTS.md` に書いて止まる。実装は別ターン |
 
 ## 今後寄せたい候補
 
